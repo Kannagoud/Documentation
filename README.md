@@ -12,6 +12,7 @@ Request headers and parameters are also important in REST API calls because they
 
 A request is sent from client to server in the form of web URL as HTTP GET or POST or PUT or DELETE request. After that, a response comes back from server in the form of a resource which can be anything like HTML, XML, Image or JSON.
 
+<img width="355" alt="Function" src="https://user-images.githubusercontent.com/102758046/161240740-011834f4-215c-4c79-a5d3-7bcf278286f7.png">
 
 ## Common Methods of REST API
 
